@@ -49,24 +49,6 @@ python main.py
 
 > Adjust the commands above to match your setup.
 
-## 💬 Example
-
-```
-You: A detective realizes the case file is in her own handwriting.
-
-Architect: Good. Start there. Now, who else has access to her notes?
-```
-
-## 📁 Project Structure
-
-```
-thriller-architect/
-├── prompts/        # staged system prompts
-├── main.py         # entry point
-├── requirements.txt
-└── README.md
-```
-
 ## 🗺️ Roadmap
 
 - [ ] More escalation stages
